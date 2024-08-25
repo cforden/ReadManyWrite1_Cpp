@@ -15,8 +15,28 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="StringReverseOnWrite.cpp">
+    <ClCompile Include="StringReverse.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="BackwardAndForwardStrings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StringReverseGated.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BackwardAndForwardStrings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StringReverseGated.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StringReverse.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
